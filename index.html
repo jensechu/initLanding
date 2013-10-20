@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>We are initTogether</title>
+    <title>We are init(Together)</title>
     <meta name="viewport" content="width=device-width">
 
     <link rel="stylesheet" href="css/foundation/css/normalize.css" />
     <link rel="stylesheet" href="css/foundation/css/foundation.css" />
     <link rel="stylesheet" href="css/style.css"/>
 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="css/foundation/js/vendor/custom.modernizr.js"></script>
+    <script src="css/foundation/js/foundation.min.js"></script>
+    <script src="css/foundation/js/foundation/foundation.reveal.js"></script>
+    <script src="js/main.js"></script>
+
   </head>
 
   <body>
@@ -17,12 +22,16 @@
       <div class="large-12 columns masthead">
 
         <div class="masthead-inner">
-          <h1>initTogether</h1>
+          <h1>init(Together)</h1>
           <p>Helping girls do things on the computer and stuff because like yeah.</p>
           <p>Toffee icing marshmallow candy souffle. Candy canes muffin apple pie liquorice chocolate bonbon. Gummies muffin caramels gummies jelly pie pastry dragee sweet. Candy macaroon marshmallow tart tootsie roll danish chocolate bar lollipop macaroon. Pudding chupa chups tiramisu candy. </p>
           
-          <div class="init-button">
+          <div class="init-button text-center" data-reveal-id="waitlistModal">
             Join the Waitlist
+          </div>
+
+          <div class="init-button green text-center" data-reveal-id="waitlistModal">
+            2013 Conference Site
           </div>
 
         </div>
@@ -33,19 +42,86 @@
 
     <div class="row">
       <!--- Homago Feed --->
-      <div class="large-6 columns">
-        <h1 class="text-center">Homago</h1>
+      <div class="large-12 columns">
+        <h1 class="text-center">Homago Hangouts</h1>
+        <p>Homago is a venue for learning, and meeting, about anything via the Internet. It's a great place to explore new communities, and ask questions to the hangout organizer.</p>
+
+        <table id="homago-feed">
+          <tr>
+            <th>Category</th>
+            <th>Hangout Name</th>
+            <th>Starts At</th>
+          </tr>
+        </table>
       </div>
       <!--- end Homago Feed --->
 
       <!--- Resources Feed --->
-      <div class="large-6 columns">
+      <div class="large-12 columns">
         <h1 class="text-center">Resources</h1>
+
+        <!--- Resource Section --->
+        <h2>Web Development</h2>
+        <table>
+          <tr>
+            <th>Skill Level</th> <th>Language</th> <th>Title</th> <th>Description</th> <th>Pre-Reqs</th>
+          </tr>
+          <tr>
+            <td>
+              Beginner
+            </td>
+            <td>
+              Javascript
+            </td>
+            <td>
+              <a href="http://www.codecademy.com/tracks/javascript">Code Academy Track</a>
+            </td>
+            <td>
+              Learn how to make your websites interactive and how to build browser based games.
+            </td>
+            <td>
+              None
+            </td>
+          </tr>
+        </table>
+        <!--- end Resource Section --->
+
+        <!--- Resource Section --->
+        <h2>Game Development</h2>
+        <table>
+          <tr>
+            <th>Skill Level</th> <th>Language</th> <th>Title</th> <th>Description</th> <th>Pre-Reqs</th>
+          </tr>
+          <tr>
+            <td>
+              Beginner
+            </td>
+            <td>
+              HTML5
+            </td>
+            <td>
+              <a href="http://blog.sklambert.com/galaxian-html5-game/">Galaxian HTML5 Game</a>
+            </td>
+            <td>
+              Covers how to write an HTML5 game similar to the 1979 arcade game Galaxian from the ground up. There will be 5 installments in this series, each one will cover one part or aspect of the game. It will cover everything from setting up the game to web optimization in coding.
+            </td>
+            <td>
+              HTML, Some JS
+            </td>
+          </tr>
+        </table>
+        <!--- end Resource Section --->
+
       </div>
       <!--- end Resources --->
     </div>
 
-<!---    <iframe src="https://docs.google.com/forms/d/1G-pF9foz-cWAb1iQVuczZAJBuBX1uM3xotPhGnarWSM/viewform?embedded=true#start=embed" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> --->
+    <!--- Modal Popup --->
+    <div id="waitlistModal" class="reveal-modal">
+      <iframe src="https://docs.google.com/forms/d/1G-pF9foz-cWAb1iQVuczZAJBuBX1uM3xotPhGnarWSM/viewform?embedded=true#start=embed" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+      <a class="close-reveal-modal">&#215;</a>
+    </div>
 
   </body>
 </html>
