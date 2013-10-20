@@ -1,7 +1,7 @@
 function homago_feed(){
     console.log("grabbing some hangouts");
 
-    $.getJSON("/js/events.json", function(data) {
+    $.getJSON("js/events.json", function(data) {
         console.log("hellooooo the json is hurr");
 
         var events = data.events;
