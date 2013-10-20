@@ -1,0 +1,1155 @@
+{
+  "events": [
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 2, 
+      "ends_at": 1384819200, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Arduino", 
+          "Webmaking", 
+          "Crafts"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Arduino Cofounder David Cuartielles", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Raising Hacker Kids", 
+            "HOMAGO Support", 
+            "Maker Scouts And Badges", 
+            "Maker Community Building", 
+            "Arduino", 
+            "Game Design", 
+            "Diy Music", 
+            "Badge Design", 
+            "Webmaking", 
+            "Crafts", 
+            "Minecraft"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-y-zj6NtSaf4/AAAAAAAAAAI/AAAAAAAAA9Q/0IXeWqc1pGo/photo.jpg", 
+          "fullname": "Terry Smith", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/160/terry-smith"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-eJ01uWL2toU/AAAAAAAAAAI/AAAAAAAACiA/mWhFiVX-zQA/photo.jpg", 
+          "fullname": "Vandan Patel", 
+          "interests": [
+            "Webmaking", 
+            "Testing", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/185/vandan-patel"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-UVgxkK_iD9s/AAAAAAAAAAI/AAAAAAAAABg/Ax5BngOpRCQ/photo.jpg", 
+          "fullname": "Dan Levy", 
+          "interests": [
+            "Arduino", 
+            "Musician", 
+            "Crafts", 
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/134/dan-levy"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-p4TlJ3hIN50/AAAAAAAAAAI/AAAAAAAAABg/-__sY3RLDcI/photo.jpg", 
+          "fullname": "David Cuartielles", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/313/david-cuartielles"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/006a5672c4b3102fa1eecd0b51aebcb0", 
+          "fullname": "ON", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/314/on"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/0d48710ee40c277b91b5dba9bb2e006e", 
+          "fullname": "Pamela Moore", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/97/pamela-moore"
+        }
+      ], 
+      "slug": "arduino-cofounder-david-cuartielles", 
+      "spots": 9, 
+      "starts_at": 1384815600, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/79/arduino-cofounder-david-cuartielles/145"
+    }, 
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 8, 
+      "ends_at": 1384484400, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Crafts", 
+          "Webmaking", 
+          "Arduino"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Arduino General Community", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Minecraft", 
+            "Crafts", 
+            "Webmaking", 
+            "Badge Design", 
+            "Diy Music", 
+            "Game Design", 
+            "Arduino", 
+            "Maker Community Building", 
+            "Maker Scouts And Badges", 
+            "HOMAGO Support", 
+            "Raising Hacker Kids"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }
+      ], 
+      "slug": "arduino-general-community", 
+      "spots": 9, 
+      "starts_at": 1384480800, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/50/arduino-general-community/144"
+    }, 
+    {
+      "category": {
+        "name": "Webmaking", 
+        "slug": "webmaking", 
+        "url": "https://beta.homago.com/category/webmaking"
+      }, 
+      "cover": null, 
+      "current_spots": 6, 
+      "ends_at": 1383843620, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/bf8989e824a53fe30cb60e7bc3a57fdc", 
+        "fullname": "MozTeach", 
+        "interests": [
+          "Webmaking", 
+          "Minecraft"
+        ], 
+        "url": "https://beta.homago.com/profile/163/mozteach"
+      }, 
+      "name": "TinyTurtle Tutorial", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Raising Hacker Kids", 
+            "HOMAGO Support", 
+            "Maker Scouts And Badges", 
+            "Maker Community Building", 
+            "Arduino", 
+            "Game Design", 
+            "Diy Music", 
+            "Badge Design", 
+            "Webmaking", 
+            "Crafts", 
+            "Minecraft"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/0d48710ee40c277b91b5dba9bb2e006e", 
+          "fullname": "Pamela Moore", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/97/pamela-moore"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-UVgxkK_iD9s/AAAAAAAAAAI/AAAAAAAAABg/Ax5BngOpRCQ/photo.jpg", 
+          "fullname": "Dan Levy", 
+          "interests": [
+            "Arduino", 
+            "Musician", 
+            "Crafts", 
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/134/dan-levy"
+        }
+      ], 
+      "slug": "tinyturtle-tutorial", 
+      "spots": 9, 
+      "starts_at": 1383840020, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/webmaking/geekout/80/tinyturtle-tutorial/147"
+    }, 
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 9, 
+      "ends_at": 1383620400, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Arduino", 
+          "Webmaking", 
+          "Crafts"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Getting Started With Arduino", 
+      "participants": [], 
+      "slug": "getting-started-with-arduino", 
+      "spots": 9, 
+      "starts_at": 1383616800, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/64/getting-started-with-arduino/143"
+    }, 
+    {
+      "category": {
+        "name": "Webmaking", 
+        "slug": "webmaking", 
+        "url": "https://beta.homago.com/category/webmaking"
+      }, 
+      "cover": null, 
+      "current_spots": 8, 
+      "ends_at": 1383325255, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/bf8989e824a53fe30cb60e7bc3a57fdc", 
+        "fullname": "MozTeach", 
+        "interests": [
+          "Webmaking", 
+          "Minecraft"
+        ], 
+        "url": "https://beta.homago.com/profile/163/mozteach"
+      }, 
+      "name": "HTML/CSS from the Beginning", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Raising Hacker Kids", 
+            "HOMAGO Support", 
+            "Maker Scouts And Badges", 
+            "Maker Community Building", 
+            "Arduino", 
+            "Game Design", 
+            "Diy Music", 
+            "Badge Design", 
+            "Webmaking", 
+            "Crafts", 
+            "Minecraft"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }
+      ], 
+      "slug": "htmlcss-from-the-beginning", 
+      "spots": 9, 
+      "starts_at": 1383321655, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/webmaking/geekout/81/htmlcss-from-the-beginning/148"
+    }, 
+    {
+      "category": {
+        "name": "Other", 
+        "slug": "other", 
+        "url": "https://beta.homago.com/category/other"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/geekout.png", 
+      "current_spots": 0, 
+      "ends_at": 1383255000, 
+      "host": {
+        "avatar": "https://lh5.googleusercontent.com/-4X6EBLwmmD8/AAAAAAAAAAI/AAAAAAAAACA/tV8m4hGKN9Q/photo.jpg", 
+        "fullname": "Sam Dyson", 
+        "interests": [], 
+        "url": "https://beta.homago.com/profile/264/sam-dyson"
+      }, 
+      "name": "Learning Aloud Geekout Series", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/-bCj_GQfMHjE/AAAAAAAAAAI/AAAAAAAAALM/0O71K2faorE/photo.jpg", 
+          "fullname": "Roxy Allen", 
+          "interests": [
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/14/roxy-allen"
+        }
+      ], 
+      "slug": "learning-aloud-geekout-series", 
+      "spots": 1, 
+      "starts_at": 1383251400, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/other/geekout/76/learning-aloud-geekout-series/135"
+    }, 
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 0, 
+      "ends_at": 1383181200, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Arduino", 
+          "Webmaking", 
+          "Crafts"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Arduino Sensors, Environmental Monitoring, Citizen Science", 
+      "participants": [
+        {
+          "avatar": "https://lh5.googleusercontent.com/-y-zj6NtSaf4/AAAAAAAAAAI/AAAAAAAAA9Q/0IXeWqc1pGo/photo.jpg", 
+          "fullname": "Terry Smith", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/160/terry-smith"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-ZMUvoHFNuZ8/AAAAAAAAAAI/AAAAAAABcbk/MlrshAXstLA/photo.jpg", 
+          "fullname": "Charlotte Pierce", 
+          "interests": [
+            "Peeragogy", 
+            "Arduino", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/219/charlotte-pierce"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-NVB87Exx2uw/AAAAAAAAAAI/AAAAAAAAAAA/0Z9mtVP4V2s/photo.jpg", 
+          "fullname": "Nichole Pinkard", 
+          "interests": [
+            "Webmaking", 
+            "Minecraft", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/162/nichole-pinkard"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Raising Hacker Kids", 
+            "HOMAGO Support", 
+            "Maker Scouts And Badges", 
+            "Maker Community Building", 
+            "Arduino", 
+            "Game Design", 
+            "Diy Music", 
+            "Badge Design", 
+            "Webmaking", 
+            "Crafts", 
+            "Minecraft"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-6zEjuGI3DcM/AAAAAAAAAAI/AAAAAAAABRw/MxRoUYRgmo8/photo.jpg", 
+          "fullname": "Jose Alvarez-Cornett", 
+          "interests": [
+            "History Of Science", 
+            "Citizen Science", 
+            "Science"
+          ], 
+          "url": "https://beta.homago.com/profile/221/jose-alvarez-cornett"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/863aee8902e33762fb1016e3c19a9abe", 
+          "fullname": "Ann Boes", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/248/ann-boes"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-Iph6kQXC9Ro/AAAAAAAAAAI/AAAAAAAAD6Q/1QmHb0bzoYg/photo.jpg", 
+          "fullname": "Ariel Levi Simons", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/233/ariel-levi-simons"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/0d48710ee40c277b91b5dba9bb2e006e", 
+          "fullname": "Pamela Moore", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/97/pamela-moore"
+        }
+      ], 
+      "slug": "arduino-sensors-environmental-monitoring-citizen-science", 
+      "spots": 8, 
+      "starts_at": 1383177600, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/69/arduino-sensors-environmental-monitoring-citizen-science/120"
+    }, 
+    {
+      "category": {
+        "name": "Other", 
+        "slug": "other", 
+        "url": "https://beta.homago.com/category/other"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/geekout.png", 
+      "current_spots": 0, 
+      "ends_at": 1382650200, 
+      "host": {
+        "avatar": "https://lh5.googleusercontent.com/-4X6EBLwmmD8/AAAAAAAAAAI/AAAAAAAAACA/tV8m4hGKN9Q/photo.jpg", 
+        "fullname": "Sam Dyson", 
+        "interests": [], 
+        "url": "https://beta.homago.com/profile/264/sam-dyson"
+      }, 
+      "name": "Learning Aloud Geekout Series", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/-bCj_GQfMHjE/AAAAAAAAAAI/AAAAAAAAALM/0O71K2faorE/photo.jpg", 
+          "fullname": "Roxy Allen", 
+          "interests": [
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/14/roxy-allen"
+        }
+      ], 
+      "slug": "learning-aloud-geekout-series", 
+      "spots": 1, 
+      "starts_at": 1382646600, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/other/geekout/76/learning-aloud-geekout-series/134"
+    }, 
+    {
+      "category": {
+        "name": "Other", 
+        "slug": "other", 
+        "url": "https://beta.homago.com/category/other"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/ChemcraftSet_1.jpg", 
+      "current_spots": 9, 
+      "ends_at": 1382590800, 
+      "host": {
+        "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+        "fullname": "Ken Y.y", 
+        "interests": [
+          "Raising Hacker Kids", 
+          "HOMAGO Support", 
+          "Maker Scouts And Badges", 
+          "Maker Community Building", 
+          "Arduino", 
+          "Game Design", 
+          "Diy Music", 
+          "Badge Design", 
+          "Webmaking", 
+          "Crafts", 
+          "Minecraft"
+        ], 
+        "url": "https://beta.homago.com/profile/57/ken-yy"
+      }, 
+      "name": "Raising Maker Kids: Mindstorms, Minecraft, Arduinos, Duct Tape and Love", 
+      "participants": [], 
+      "slug": "raising-maker-kids-mindstorms-minecraft-arduinos-duct-tape-and-love", 
+      "spots": 9, 
+      "starts_at": 1382587200, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/other/geekout/56/raising-maker-kids-mindstorms-minecraft-arduinos-duct-tape-and-love/146"
+    }, 
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 0, 
+      "ends_at": 1382407200, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Arduino", 
+          "Webmaking", 
+          "Crafts"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Arduino General Community", 
+      "participants": [
+        {
+          "avatar": "https://lh5.googleusercontent.com/-y-zj6NtSaf4/AAAAAAAAAAI/AAAAAAAAA9Q/0IXeWqc1pGo/photo.jpg", 
+          "fullname": "Terry Smith", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/160/terry-smith"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-RIdUz75UOcQ/AAAAAAAAAAI/AAAAAAAAACA/gzV4aYY56jc/photo.jpg", 
+          "fullname": "Fritz Engebretsen", 
+          "interests": [
+            "Crafts", 
+            "Webmaking", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/112/fritz-engebretsen"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-ZMUvoHFNuZ8/AAAAAAAAAAI/AAAAAAABcbk/MlrshAXstLA/photo.jpg", 
+          "fullname": "Charlotte Pierce", 
+          "interests": [
+            "Peeragogy", 
+            "Arduino", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/219/charlotte-pierce"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Raising Hacker Kids", 
+            "HOMAGO Support", 
+            "Maker Scouts And Badges", 
+            "Maker Community Building", 
+            "Arduino", 
+            "Game Design", 
+            "Diy Music", 
+            "Badge Design", 
+            "Webmaking", 
+            "Crafts", 
+            "Minecraft"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/1760986c06e097b2e0d7f085d35cf489", 
+          "fullname": "Mars Barr", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/244/mars-barr"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-XX6V9Z-5udw/AAAAAAAAAAI/AAAAAAAAH7g/iq51StNjYdM/photo.jpg", 
+          "fullname": "Anna Keune", 
+          "interests": [
+            "Crafts", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/155/anna-keune"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-svoEgecNmAo/AAAAAAAAAAI/AAAAAAAAAG4/l7XW5uAwsDo/photo.jpg", 
+          "fullname": "David Gault", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/267/david-gault"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-IkNp6TpeQZA/AAAAAAAAAAI/AAAAAAAADUw/nb7NpuJVgHA/photo.jpg", 
+          "fullname": "Joe Raimondo", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/268/joe-raimondo"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-V7YaqwnSbsU/AAAAAAAAAAI/AAAAAAAAAAA/hBf0s6aawmQ/photo.jpg", 
+          "fullname": "Fred Bartels", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/199/fred-bartels"
+        }
+      ], 
+      "slug": "arduino-general-community", 
+      "spots": 9, 
+      "starts_at": 1382403600, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/50/arduino-general-community/99"
+    }, 
+    {
+      "category": {
+        "name": "Crafts", 
+        "slug": "crafts", 
+        "url": "https://beta.homago.com/category/crafts"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/zines_zimple_smaller_1.jpg", 
+      "current_spots": 9, 
+      "ends_at": 1382394600, 
+      "host": {
+        "avatar": "https://lh4.googleusercontent.com/-VQofM0mLKnQ/AAAAAAAAAAI/AAAAAAAAAdQ/sOzWddj3M9o/photo.jpg", 
+        "fullname": "Paul Morgan", 
+        "interests": [
+          "Crafts", 
+          "Arduino"
+        ], 
+        "url": "https://beta.homago.com/profile/13/paul-morgan"
+      }, 
+      "name": "Introduction to Zines", 
+      "participants": [], 
+      "slug": "introduction-to-zines", 
+      "spots": 9, 
+      "starts_at": 1382391000, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/crafts/geekout/75/introduction-to-zines/142"
+    }, 
+    {
+      "category": {
+        "name": "Crafts", 
+        "slug": "crafts", 
+        "url": "https://beta.homago.com/category/crafts"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/Screen_Shot_2013-09-18_at_2.00.46_PM_1.png", 
+      "current_spots": 9, 
+      "ends_at": 1382385600, 
+      "host": {
+        "avatar": "https://lh4.googleusercontent.com/-VQofM0mLKnQ/AAAAAAAAAAI/AAAAAAAAAdQ/sOzWddj3M9o/photo.jpg", 
+        "fullname": "Paul Morgan", 
+        "interests": [
+          "Crafts", 
+          "Arduino"
+        ], 
+        "url": "https://beta.homago.com/profile/13/paul-morgan"
+      }, 
+      "name": "Introduction to Embroidery", 
+      "participants": [], 
+      "slug": "introduction-to-embroidery", 
+      "spots": 9, 
+      "starts_at": 1382382000, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/crafts/geekout/51/introduction-to-embroidery/140"
+    }, 
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 2, 
+      "ends_at": 1382061600, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Arduino", 
+          "Webmaking", 
+          "Crafts"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Getting Started With Arduino", 
+      "participants": [
+        {
+          "avatar": "https://lh5.googleusercontent.com/-y-zj6NtSaf4/AAAAAAAAAAI/AAAAAAAAA9Q/0IXeWqc1pGo/photo.jpg", 
+          "fullname": "Terry Smith", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/160/terry-smith"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-zPG2nRE4u7Y/AAAAAAAAAAI/AAAAAAAAAog/1MTxJIutuBQ/photo.jpg", 
+          "fullname": "Robin Bartoletti", 
+          "interests": [
+            "Crafts", 
+            "Arduino", 
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/210/robin-bartoletti"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-VQofM0mLKnQ/AAAAAAAAAAI/AAAAAAAAAdQ/sOzWddj3M9o/photo.jpg", 
+          "fullname": "Paul Morgan", 
+          "interests": [
+            "Crafts", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/13/paul-morgan"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-LeivPXgy-7Q/AAAAAAAAAAI/AAAAAAAASpI/hOQkx4YFeYc/photo.jpg", 
+          "fullname": "Brendan Murphy", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/211/brendan-murphy"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-Hwg3uOwcFmE/AAAAAAAAAAI/AAAAAAAAAVY/G78XVc7xGN4/photo.jpg", 
+          "fullname": "Michelle Cordy", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/148/michelle-cordy"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-svoEgecNmAo/AAAAAAAAAAI/AAAAAAAAAG4/l7XW5uAwsDo/photo.jpg", 
+          "fullname": "David Gault", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/267/david-gault"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-V7Ht4iaI_Jk/AAAAAAAAAAI/AAAAAAAAAAA/9223h2MaQFU/photo.jpg", 
+          "fullname": "Karen Connaghan", 
+          "interests": [
+            "Crafts", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/270/karen-connaghan"
+        }
+      ], 
+      "slug": "getting-started-with-arduino", 
+      "spots": 9, 
+      "starts_at": 1382058000, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/64/getting-started-with-arduino/113"
+    }, 
+    {
+      "category": {
+        "name": "Other", 
+        "slug": "other", 
+        "url": "https://beta.homago.com/category/other"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/geekout.png", 
+      "current_spots": 0, 
+      "ends_at": 1382047200, 
+      "host": {
+        "avatar": "https://lh5.googleusercontent.com/-4X6EBLwmmD8/AAAAAAAAAAI/AAAAAAAAACA/tV8m4hGKN9Q/photo.jpg", 
+        "fullname": "Sam Dyson", 
+        "interests": [], 
+        "url": "https://beta.homago.com/profile/264/sam-dyson"
+      }, 
+      "name": "Learning Aloud Geekout Series", 
+      "participants": [
+        {
+          "avatar": "https://lh4.googleusercontent.com/-bCj_GQfMHjE/AAAAAAAAAAI/AAAAAAAAALM/0O71K2faorE/photo.jpg", 
+          "fullname": "Roxy Allen", 
+          "interests": [
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/14/roxy-allen"
+        }
+      ], 
+      "slug": "learning-aloud-geekout-series", 
+      "spots": 1, 
+      "starts_at": 1382043600, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/other/geekout/76/learning-aloud-geekout-series/133"
+    }, 
+    {
+      "category": {
+        "name": "Testing", 
+        "slug": "testing", 
+        "url": "https://beta.homago.com/category/testing"
+      }, 
+      "cover": null, 
+      "current_spots": 1, 
+      "ends_at": 1382047124, 
+      "host": {
+        "avatar": "https://lh5.googleusercontent.com/-ui-GqpNh5Ms/AAAAAAAAAAI/AAAAAAAAAas/oFy22jiVAfo/photo.jpg", 
+        "fullname": "Mat\u00edas Aguirre", 
+        "interests": [
+          "Webmaking"
+        ], 
+        "url": "https://beta.homago.com/profile/8/matias-aguirre"
+      }, 
+      "name": "Testing OnAir registration", 
+      "participants": [], 
+      "slug": "testing-onair-registration", 
+      "spots": 1, 
+      "starts_at": 1382043524, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/testing/geekout/82/testing-onair-registration/149"
+    }, 
+    {
+      "category": {
+        "name": "Crafts", 
+        "slug": "crafts", 
+        "url": "https://beta.homago.com/category/crafts"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/zines_zimple_smaller_1.jpg", 
+      "current_spots": 6, 
+      "ends_at": 1381521600, 
+      "host": {
+        "avatar": "https://lh4.googleusercontent.com/-VQofM0mLKnQ/AAAAAAAAAAI/AAAAAAAAAdQ/sOzWddj3M9o/photo.jpg", 
+        "fullname": "Paul Morgan", 
+        "interests": [
+          "Crafts", 
+          "Arduino"
+        ], 
+        "url": "https://beta.homago.com/profile/13/paul-morgan"
+      }, 
+      "name": "Introduction to Zines", 
+      "participants": [
+        {
+          "avatar": "https://lh6.googleusercontent.com/-RIdUz75UOcQ/AAAAAAAAAAI/AAAAAAAAACA/gzV4aYY56jc/photo.jpg", 
+          "fullname": "Fritz Engebretsen", 
+          "interests": [
+            "Arduino", 
+            "Webmaking", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/112/fritz-engebretsen"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Minecraft", 
+            "Crafts", 
+            "Webmaking", 
+            "Badge Design", 
+            "Diy Music", 
+            "Game Design", 
+            "Arduino", 
+            "Maker Community Building", 
+            "Maker Scouts And Badges", 
+            "HOMAGO Support", 
+            "Raising Hacker Kids"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-1FZwfBQx9hE/AAAAAAAAAAI/AAAAAAAAAP4/ZxTYEsc65q4/photo.jpg", 
+          "fullname": "Timothy Young", 
+          "interests": [
+            "StarCraft", 
+            "Webmaking", 
+            "Minecraft", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/17/timothy-young"
+        }
+      ], 
+      "slug": "introduction-to-zines", 
+      "spots": 9, 
+      "starts_at": 1381518000, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/crafts/geekout/75/introduction-to-zines/131"
+    }, 
+    {
+      "category": {
+        "name": "Webmaking", 
+        "slug": "webmaking", 
+        "url": "https://beta.homago.com/category/webmaking"
+      }, 
+      "cover": null, 
+      "current_spots": 0, 
+      "ends_at": 1381514400, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/bf8989e824a53fe30cb60e7bc3a57fdc", 
+        "fullname": "MozTeach", 
+        "interests": [
+          "Webmaking", 
+          "Minecraft"
+        ], 
+        "url": "https://beta.homago.com/profile/163/mozteach"
+      }, 
+      "name": "Make a Simple Javascript Game", 
+      "participants": [
+        {
+          "avatar": "https://www.gravatar.com/avatar/0d48710ee40c277b91b5dba9bb2e006e", 
+          "fullname": "Pamela Moore", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/97/pamela-moore"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/--zMul1VbnZ8/AAAAAAAAAAI/AAAAAAAAANw/YXk0dbWzZA0/photo.jpg", 
+          "fullname": "Ken Y.y", 
+          "interests": [
+            "Minecraft", 
+            "Crafts", 
+            "Webmaking", 
+            "Badge Design", 
+            "Diy Music", 
+            "Game Design", 
+            "Arduino", 
+            "Maker Community Building", 
+            "Maker Scouts And Badges", 
+            "HOMAGO Support", 
+            "Raising Hacker Kids"
+          ], 
+          "url": "https://beta.homago.com/profile/57/ken-yy"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-fmkS_rwYae4/AAAAAAAAAAI/AAAAAAAAAIM/6bclzeVrv7E/photo.jpg", 
+          "fullname": "Romin Irani", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/208/romin-irani"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-NVB87Exx2uw/AAAAAAAAAAI/AAAAAAAAAAA/0Z9mtVP4V2s/photo.jpg", 
+          "fullname": "Nichole Pinkard", 
+          "interests": [
+            "Arduino", 
+            "Minecraft", 
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/162/nichole-pinkard"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-1FZwfBQx9hE/AAAAAAAAAAI/AAAAAAAAAP4/ZxTYEsc65q4/photo.jpg", 
+          "fullname": "Timothy Young", 
+          "interests": [
+            "StarCraft", 
+            "Webmaking", 
+            "Minecraft", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/17/timothy-young"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-RIdUz75UOcQ/AAAAAAAAAAI/AAAAAAAAACA/gzV4aYY56jc/photo.jpg", 
+          "fullname": "Fritz Engebretsen", 
+          "interests": [
+            "Arduino", 
+            "Webmaking", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/112/fritz-engebretsen"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-aCuh6Fv_Uyc/AAAAAAAAAAI/AAAAAAAAACY/xGxTGePZsrE/photo.jpg", 
+          "fullname": "Sylvan Ash", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/281/sylvan-ash"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-bCj_GQfMHjE/AAAAAAAAAAI/AAAAAAAAALM/0O71K2faorE/photo.jpg", 
+          "fullname": "Roxy Allen", 
+          "interests": [
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/14/roxy-allen"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-49e8Ssbs-lM/AAAAAAAAAAI/AAAAAAAAAQ8/TrJUqPMbHV8/photo.jpg", 
+          "fullname": "Hezron Obuchele", 
+          "interests": [
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/279/hezron-obuchele"
+        }
+      ], 
+      "slug": "make-a-simple-javascript-game", 
+      "spots": 9, 
+      "starts_at": 1381510800, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/webmaking/geekout/60/make-a-simple-javascript-game/109"
+    }, 
+    {
+      "category": {
+        "name": "Arduino", 
+        "slug": "arduino", 
+        "url": "https://beta.homago.com/category/arduino"
+      }, 
+      "cover": null, 
+      "current_spots": 0, 
+      "ends_at": 1381453200, 
+      "host": {
+        "avatar": "https://www.gravatar.com/avatar/7518c4e259ed015c7a70cfcef2ff6fb0", 
+        "fullname": "Howard Rheingold", 
+        "interests": [
+          "Crafts", 
+          "Webmaking", 
+          "Arduino"
+        ], 
+        "url": "https://beta.homago.com/profile/44/howard-rheingold"
+      }, 
+      "name": "Arduino for Wearables", 
+      "participants": [
+        {
+          "avatar": "https://lh6.googleusercontent.com/-XX6V9Z-5udw/AAAAAAAAAAI/AAAAAAAAH7g/iq51StNjYdM/photo.jpg", 
+          "fullname": "Anna Keune", 
+          "interests": [
+            "Crafts", 
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/155/anna-keune"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-Ueh2b7k4enM/AAAAAAAAAAI/AAAAAAAAAAA/ifL-7FIX6ko/photo.jpg", 
+          "fullname": "Robyn Kalda", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/159/robyn-kalda"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-C2otju4avHM/AAAAAAAAAAI/AAAAAAAAAEc/5lpYzY2Qg48/photo.jpg", 
+          "fullname": "Kim Wilkens", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/140/kim-wilkens"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-y-zj6NtSaf4/AAAAAAAAAAI/AAAAAAAAA9Q/0IXeWqc1pGo/photo.jpg", 
+          "fullname": "Terry Smith", 
+          "interests": [
+            "Arduino"
+          ], 
+          "url": "https://beta.homago.com/profile/160/terry-smith"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-DwZzUmp4xIQ/AAAAAAAAAAI/AAAAAAAAAGg/ZHeZjy-uDPY/photo.jpg", 
+          "fullname": "lynne bruning", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/166/lynne-bruning"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-WlQOT3C-h4w/AAAAAAAAAAI/AAAAAAAAACE/EwrFVX_kZ0I/photo.jpg", 
+          "fullname": "Sophia Bender", 
+          "interests": [
+            "Arduino", 
+            "Crafts", 
+            "Fiction Writing", 
+            "E-Textiles"
+          ], 
+          "url": "https://beta.homago.com/profile/156/sophia-bender"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-RIdUz75UOcQ/AAAAAAAAAAI/AAAAAAAAACA/gzV4aYY56jc/photo.jpg", 
+          "fullname": "Fritz Engebretsen", 
+          "interests": [
+            "Arduino", 
+            "Webmaking", 
+            "Crafts"
+          ], 
+          "url": "https://beta.homago.com/profile/112/fritz-engebretsen"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-Yb-laSkK9jI/AAAAAAAAAAI/AAAAAAAAAII/YNQTsvxpF2M/photo.jpg", 
+          "fullname": "Mirjana Spasojevic", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/295/mirjana-spasojevic"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-mXmdEWD9InQ/AAAAAAAAAAI/AAAAAAAAAuQ/dVkZL4k19Hg/photo.jpg", 
+          "fullname": "Rachel Hinman", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/296/rachel-hinman"
+        }
+      ], 
+      "slug": "arduino-for-wearables", 
+      "spots": 9, 
+      "starts_at": 1381449600, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/arduino/geekout/55/arduino-for-wearables/105"
+    }, 
+    {
+      "category": {
+        "name": "Other", 
+        "slug": "other", 
+        "url": "https://beta.homago.com/category/other"
+      }, 
+      "cover": null, 
+      "current_spots": 4, 
+      "ends_at": 1381458600, 
+      "host": {
+        "avatar": "https://lh5.googleusercontent.com/-BtbnhyOv9JQ/AAAAAAAAAAI/AAAAAAAAAFA/7Jy9gtS_7zo/photo.jpg", 
+        "fullname": "Casey Curran", 
+        "interests": [], 
+        "url": "https://beta.homago.com/profile/49/casey-curran"
+      }, 
+      "name": "Let's Play DnD Week 2!", 
+      "participants": [], 
+      "slug": "lets-play-dnd-week-2", 
+      "spots": 4, 
+      "starts_at": 1381444200, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/other/geekout/77/lets-play-dnd-week-2/137"
+    }, 
+    {
+      "category": {
+        "name": "Other", 
+        "slug": "other", 
+        "url": "https://beta.homago.com/category/other"
+      }, 
+      "cover": "https://beta.homago.com/media/covers/geekout.png", 
+      "current_spots": 0, 
+      "ends_at": 1381440600, 
+      "host": {
+        "avatar": "https://lh5.googleusercontent.com/-4X6EBLwmmD8/AAAAAAAAAAI/AAAAAAAAACA/tV8m4hGKN9Q/photo.jpg", 
+        "fullname": "Hive Chicago", 
+        "interests": [], 
+        "url": "https://beta.homago.com/profile/264/hive-chicago"
+      }, 
+      "name": "Learning Aloud Geekout Series", 
+      "participants": [
+        {
+          "avatar": "https://lh3.googleusercontent.com/-yHHEj-Zrk-I/AAAAAAAAAAI/AAAAAAAAAAA/CeHb8XuHqgM/photo.jpg", 
+          "fullname": "Elsa Rodriguez", 
+          "interests": [
+            "Learning About All These Cool Web/Tech Making Worlds!"
+          ], 
+          "url": "https://beta.homago.com/profile/238/elsa-rodriguez"
+        }, 
+        {
+          "avatar": "https://lh3.googleusercontent.com/-3ZzIobh-LT8/AAAAAAAAAAI/AAAAAAAAAAA/iRdWXeX_-Ms/photo.jpg", 
+          "fullname": "nina marie barbuto", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/287/nina-marie-barbuto"
+        }, 
+        {
+          "avatar": "https://www.gravatar.com/avatar/9bec77c6e316a98ac96edb5757092fac", 
+          "fullname": "Omar Nasr", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/298/omar-nasr"
+        }, 
+        {
+          "avatar": "https://lh5.googleusercontent.com/-AyPXCApf9L4/AAAAAAAAAAI/AAAAAAAAABA/asuP1UMj1-k/photo.jpg", 
+          "fullname": "Caroline Combemale", 
+          "interests": [
+            "Scratch"
+          ], 
+          "url": "https://beta.homago.com/profile/256/caroline-combemale"
+        }, 
+        {
+          "avatar": "https://lh6.googleusercontent.com/-7sJcUeteWiQ/AAAAAAAAAAI/AAAAAAAACMU/1MlKfGoD1f8/photo.jpg", 
+          "fullname": "Laura Lee Stroud", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/259/laura-lee-stroud"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-tdSNFujI9kA/AAAAAAAAAAI/AAAAAAAAADo/Rkh4IZFT-Ec/photo.jpg", 
+          "fullname": "Rik Panganiban", 
+          "interests": [], 
+          "url": "https://beta.homago.com/profile/284/rik-panganiban"
+        }, 
+        {
+          "avatar": "https://lh4.googleusercontent.com/-bCj_GQfMHjE/AAAAAAAAAAI/AAAAAAAAALM/0O71K2faorE/photo.jpg", 
+          "fullname": "Roxy Allen", 
+          "interests": [
+            "Webmaking"
+          ], 
+          "url": "https://beta.homago.com/profile/14/roxy-allen"
+        }
+      ], 
+      "slug": "learning-aloud-geekout-series", 
+      "spots": 7, 
+      "starts_at": 1381437000, 
+      "type": "geekout", 
+      "url": "https://beta.homago.com/other/geekout/76/learning-aloud-geekout-series/132"
+    }
+  ], 
+  "next_url": "https://beta.homago.com/api/events.json?page=1", 
+  "prev_url": null
+}
