@@ -1,5 +1,5 @@
 .masthead {
-  background-image: url('./images/masthead.jpg');
+  background-image: url('/images/masthead.jpg');
   min-height: 400px;
   padding: 40px;
 }
